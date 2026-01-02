@@ -10,7 +10,7 @@ Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visu
 - [CNN-project-with-the-Streamlit-app](https://github.com/sheetalcsijo-cyber/CNN-project-with-the-Streamlit-app..git)  
 - [Well-Being-Mobile-Addiction-Dashboard-Power-BI](https://github.com/sheetalcsijo-cyber/Digital-Well-Being-Mobile-Addiction-Dashboard-Power-BI-.git)  
 - [Ride-Booking-Data-Analysis](https://github.com/sheetalcsijo-cyber/Ride-Booking-Data-Analysis.git)
-- (https://github.com/sheetalcsijo-cyber/Ecommerce-KPI-Revenue-Analysis.git)
+- [Ecommerce-KPI-Revenue-Analysis](https://github.com/sheetalcsijo-cyber/Ecommerce-KPI-Revenue-Analysis.git)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/sheetal-sijo-668784197)
