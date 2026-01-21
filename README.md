@@ -1,5 +1,5 @@
 # Sheetal c Sijo
-Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visualization
+Project managing operator | Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visualization
 
 ## 🛠️ Skills
 - Programming: Python, R, SQL, Java
