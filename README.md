@@ -1,4 +1,4 @@
-# Sheetal c Sijo
+# Sheetal C Sijo
 Data Analyst | Power BI & Excel Dashboards | SQL | PMO & Resource Analytics
 
 
