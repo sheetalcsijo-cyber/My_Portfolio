@@ -1,10 +1,22 @@
 # Sheetal c Sijo
-Project managing operator | Data Analyst | Skilled in Python, SQL, and Tableau | Interested in ML &amp; Visualization
+Data Analyst | Power BI & Excel Dashboards | SQL | PMO & Resource Analytics
 
-## 🛠️ Skills
-- Programming: Python, R, SQL, Java
-- Tools: Tableau, Power BI, Excel, Hadoop
-- Machine Learning: Scikit-learn, NLP, Deep Learning
+
+## 🛠 Skills
+
+**Data Analysis & Reporting**
+- Power BI (DAX, Data Modeling, KPI Dashboards)
+- Excel (Pivot Tables, Lookups, Automation)
+
+**Databases & Programming**
+- SQL (Joins, Aggregations, Business Queries)
+- Python (Pandas, Data Cleaning, Analysis)
+
+**Business Domains**
+- PMO Reporting
+- Resource Allocation & Utilization
+- KPI & Financial Tracking
+
 
 ## 🚀 Projects
 - [CNN-project-with-the-Streamlit-app](https://github.com/sheetalcsijo-cyber/CNN-project-with-the-Streamlit-app..git)  
