@@ -20,6 +20,7 @@ Data Analyst | Power BI & Excel Dashboards | SQL | PMO & Resource Analytics
 
 ## 🚀 Projects
 
+- [Business Intelligence Platform for Project & Resource Management](https://github.com/sheetalcsijo-cyber/Business-Intelligence-Platform-for-Project-Resource-Management.git)
 - [Sales & Profitability Analysis](https://github.com/sheetalcsijo-cyber/Sales-Profitability-Analysis.git)
 - [PMO dashboard](https://github.com/sheetalcsijo-cyber/PMO-dashboard.git)
 - [Ecommerce-KPI-Revenue-Analysis](https://github.com/sheetalcsijo-cyber/Ecommerce-KPI-Revenue-Analysis.git)
